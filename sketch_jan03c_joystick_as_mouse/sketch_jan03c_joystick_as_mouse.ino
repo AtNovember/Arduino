@@ -29,8 +29,9 @@
   http://www.arduino.cc/en/Tutorial/JoystickMouseControl
 */
 
-// #include "Mouse.h"
-#include <Mouse.h>
+#include "Mouse.h"
+// #include <Mouse.h>
+
 
 // set pin numbers for switch, joystick axes, and LED:
 const int switchPin = 2;      // switch to turn on and off mouse control
